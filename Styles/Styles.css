@@ -1,0 +1,78 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 120px;
+    background-color: #D9D9D9;
+}
+
+.row h1{
+    margin-bottom: 10px;
+    color: rgb(154, 68, 34);
+    text-align: center;
+    font-weight:lighter;
+}
+
+.cont-one{
+    display: flex;
+    justify-content: center;
+
+    padding-top: 40px;
+}
+
+.navbar ul {
+    display: flexbox;
+    justify-content: center;
+}
+.navbar li, a{
+    margin-left: 20px;
+}
+
+.dog-text{
+    display: flex;
+    justify-content: center;
+    border: 1px black solid;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blueviolet;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.card-one{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+.card-one img{
+    border-radius: 8px 8px 0px 0px;
+}
+
+.card-two{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+.card-two img{
+    border-radius: 8px 8px 0px 0px ;
+}
+
+.card-three {
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.card-three img {
+    border-radius: 8px 8px 0px 0px;
+}
+
+
